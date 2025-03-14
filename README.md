@@ -33,5 +33,5 @@ This is a Spring Boot-based microservices application consisting of four service
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/NaikRitesh/Quiz-App-Microservice-Architecture-.git
    cd quiz-app
