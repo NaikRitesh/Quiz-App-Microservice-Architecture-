@@ -28,7 +28,6 @@ This is a Spring Boot-based microservices application consisting of four service
 - Java 17 or later
 - Maven 3.6+ (for building the project)
 - Docker (optional, for running services in containers)
-- H2 Database (used for simplicity, in-memory database for Question and Quiz services)
 
 ## Setup
 
